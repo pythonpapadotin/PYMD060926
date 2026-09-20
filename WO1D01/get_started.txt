@@ -1,0 +1,19 @@
+1. Python Interpreter
+
+	Install Python in our systems:-
+		1. python.org -> python interpreter.
+		what is an interpreter?
+		=> python code -> machine read & run and give output
+		line by line
+
+2. Pycharm
+	IDE:- Integrated Development Environment
+	=> Platform where we can write code, see output, interpreter connected,
+	   debugger, etc.
+
+	Jetbrains -> Pycharm :- https://www.jetbrains.com/pycharm/download/
+
+3. Jupyter notebook => Go to command prompt/terminal:- python -m pip install notebook
+
+
+
