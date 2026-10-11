@@ -1,0 +1,11 @@
+{
+    "amount": 89,
+    "cgst": 2.4,
+    "sgst": 1.8,
+    "fees": {
+        "network_fees": 0.89,
+        "gateway_fees": 0.44
+    },
+    "offer": null,
+    "advice": false
+}
